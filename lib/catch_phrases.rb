@@ -3,7 +3,7 @@ def toadstool
   puts status
 end
 def mario
- 
+  phrase ||= 
   puts phrase
 end
 
